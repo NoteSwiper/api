@@ -1,5 +1,12 @@
 {
-    "private": true,
+    "name": "ntesp-api-test-web",
+    "description": "this is an test",
+    "version": "1.0.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NoteSwiper/api.git"
+    },
+    "private": false,
     "scripts": {
       "dev": "next dev",
       "build": "next build",
